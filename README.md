@@ -6,3 +6,4 @@ From the [Skillfactory Data Science course] (https://skillfactory.ru/data-scient
 
 * [Проект_1. Игра: Угадай число] (https://github.com/Andrei-62/sf_ds/tree/main/Project_1)
 * [Проект_2. Анализ резюме из HeadHunter] (https://github.com/Andrei-62/sf_ds/tree/main/Project_2_Analisis_Hh)
+* [Проект_3. Анализ резюме из HeadHunter pro] (https://github.com/Andrei-62/sf_ds/tree/main/Project_3)
