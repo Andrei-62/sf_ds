@@ -1,4 +1,4 @@
-# Проект 2. Анализ резюме из HeadHunter pro
+# Проект 3. Анализ резюме из HeadHunter pro
 
 ## Оглавление 
 1. Предварительный анализ данныз (https://github.com/Andrei-62/sf_ds/blob/main/Project_3/Project_3_Analis_Hh.ipynb#Юнит3.Предварительный-анализ-данных)
